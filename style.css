@@ -1,0 +1,20 @@
+/* @media only screen and (max-width: 600px){
+    body{
+        background-color: blue;
+
+    }
+    
+} */
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.one,.two,.three{
+    border: 2px solid red;
+    
+
+}
